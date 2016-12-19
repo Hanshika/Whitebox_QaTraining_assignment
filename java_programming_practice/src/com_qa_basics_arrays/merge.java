@@ -4,7 +4,6 @@ import java.util.* ;
 public class merge {
 
 	public static void main(String[] args) {
-		
 		String a[] = { "A", "P", "P" };
 	      String b[] = { "L", "E" };
 	      List list = new ArrayList(Arrays.asList(a));
