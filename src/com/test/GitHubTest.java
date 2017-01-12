@@ -44,7 +44,8 @@ public class GitHubTest extends BaseTest{
 	assertEquals("4023110",util.getUser().getId());
 	}
 		@Test
-		public void testgetblog(){
+		public void testgetblog()
+		{
 			assertEquals("http://www.whitebox-learning.com",util.getUser().getBlog());
 		}
 	}
