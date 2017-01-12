@@ -40,7 +40,8 @@ public class RestUtils
 	}
 	private GitHubUser user;
 	
-	public GitHubUser getUser() {
+	public GitHubUser getUser()
+	{
 		return user;
 	}
 	public void setUser(GitHubUser user) {
