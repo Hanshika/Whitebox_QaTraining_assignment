@@ -1,5 +1,4 @@
 package com.pojo;
-
 public class GitHubUser {
 
 	private String organizations_url;

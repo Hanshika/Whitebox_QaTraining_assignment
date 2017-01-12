@@ -19,5 +19,4 @@ public void afterSuite()
 {
 	_config =null;
 }
-	
 }
