@@ -8,6 +8,7 @@ import com.utils.RestUtils;
 
 public class TwitterTest extends BaseTest{
 RestUtils util;
+
 @BeforeClass
 public void beforeclass(){
 	util =new RestUtils();
