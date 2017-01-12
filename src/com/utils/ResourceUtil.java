@@ -5,9 +5,11 @@ import org.apache.http.ParseException;
 import org.apache.http.util.EntityUtils;
 import org.codehaus.jackson.map.ObjectMapper;
 
-public class ResourceUtil {
+public class ResourceUtil 
+{
 	
-	public static <X>X retrieveResource(HttpResponse response,Class<X> cl) {
+	public static <X>X retrieveResource(HttpResponse response,Class<X> cl) 
+	{
 	
 		String json=null;
 		
