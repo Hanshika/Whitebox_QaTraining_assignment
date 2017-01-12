@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RestSuite">
+<test name="GitTest">
+<classes>
+        <class name="com.test.GitHubTest"></class>
+        <class name="com.test.TwitterTest"></class>
+</classes>
+</test>
+</suite>
